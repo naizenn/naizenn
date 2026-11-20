@@ -6,8 +6,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&label=Visites+du+profil&color=E63946&style=for-the-badge" alt="visites" />
-<img src="https://img.shields.io/github/followers/TON-PSEUDO?label=Followers&style=for-the-badge&logo=github&color=E63946&labelColor=0D1117" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=naizenn&label=Visites+du+profil&color=E63946&style=for-the-badge" alt="visites" />
+<img src="https://img.shields.io/github/followers/naizenn?label=Followers&style=for-the-badge&logo=github&color=E63946&labelColor=0D1117" alt="followers" />
 
 <br/><br/>
 
@@ -152,16 +152,16 @@ Jeu de rôle textuel à jouer dans le terminal.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" alt="langages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=naizenn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naizenn&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" alt="langages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=TON-PSEUDO&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=naizenn&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON-PSEUDO&bg_color=0D1117&color=E63946&line=E63946&point=FFFFFF&area=true&area_color=E63946&hide_border=true" alt="activité" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naizenn&bg_color=0D1117&color=E63946&line=E63946&point=FFFFFF&area=true&area_color=E63946&hide_border=true" alt="activité" />
 
 </div>
 
@@ -173,9 +173,7 @@ Jeu de rôle textuel à jouer dans le terminal.
 
 <div align="center">
 
-<a href="https://TON-PORTFOLIO.fr"><img src="https://img.shields.io/badge/Portfolio-Voir%20mes%20projets-E63946?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-Me%20contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-<a href="mailto:TON-EMAIL@exemple.fr"><img src="https://img.shields.io/badge/Email-%C3%89cris--moi-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+<a href="https://github.com/naizenn"><img src="https://img.shields.io/badge/GitHub-naizenn-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" /></a>
 
 <br/><br/>
 
