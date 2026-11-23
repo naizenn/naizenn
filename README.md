@@ -173,6 +173,7 @@ Jeu de rôle textuel à jouer dans le terminal.
 
 <div align="center">
 
+<a href="https://portfolioevankalaycioglu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Voir%20mes%20projets-E63946?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
 <a href="https://github.com/naizenn"><img src="https://img.shields.io/badge/GitHub-naizenn-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" /></a>
 
 <br/><br/>
