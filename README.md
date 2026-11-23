@@ -1,51 +1,52 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,50:7A0F1A,100:E63946&text=EVAN%20KALAYCIOGLU&fontColor=ffffff&fontSize=50&fontAlignY=42&desc=Designer%20UX%2FUI%20%E2%80%A2%20Int%C3%A9grateur%20Web&descSize=22&descAlignY=64&animation=twinkling" width="100%" alt="banner" />
+<div align="center"> <a href="https://portfolioevankalaycioglu.netlify.app"> <img src="https://portfolioevankalaycioglu.netlify.app/portfolio-assets/header-architecture-pinterest.jpg" alt="Croquis architectural d'un bâtiment moderne entouré d'arbres aux feuillages rouges" width="100%" /> </a>
+<sub>CROQUIS ARCHITECTURAL · INSPIRATION</sub>
+<br />
+EVAN KALAYCIOGLU / DESIGN <br /> <sub>2026 · SÉLECTION DE PROJETS</sub>
+PORTFOLIO
+Étudiant en informatique · futur designer <br /> <sub>Portfolio créatif — 2026</sub>
+<br />
+Le design commence par une idée.
+<br />
+DÉCOUVRIR MES PROJETS ↘
+</div> <br />
+
+À propos
+<sub>01 / PROFIL</sub>
+<table> <tr> <td width="62%" valign="top">
+J'ai 18 ans et je suis en première année d'informatique à La Manu. Après un bac général avec la spécialité NSI, je souhaite orienter mon parcours vers le design.
+Mon stage de seconde m'a fait découvrir le design web au Centre départemental d'Eure-et-Loir, aux côtés d'une personne qui travaillait à la refonte de sites internet. Depuis, je réalise aussi des travaux de design en cours et j'ai envie d'aller plus loin.
+Passionné de jeux vidéo, j'aime les univers visuels, les interfaces et les détails qui rendent une expérience mémorable.
+18 ans · Étudiant Chartres · Eure-et-Loir Design · Mon prochain cap
+</td> <td width="38%" valign="top" align="center"> <img src="https://portfolioevankalaycioglu.netlify.app/portfolio-assets/evan-kalaycioglu-portrait.png" alt="Portrait d'Evan Kalaycioglu" width="100%" />
+<sub>EVAN KALAYCIOGLU · PORTRAIT</sub>
+</td> </tr> </table>
+
+Projets & recherches
+<sub>02 / SÉLECTION</sub>
+N°	Projet	Type	
+01	Frigo Futé	Identité visuelle · application mobile	Figma ↗
+02	Les Voix Roses · Octobre Rose	Prototype mobile · messages de soutien	Figma ↗
+03	AppiCuisine	Prototype d'application · recherche de recettes	Figma ↗
+04	Festival des arts visuels	Affiche · composition typographique	Voir ↗
+05	Le Napoléon	Site web de restaurant · projet personnel	Voir ↗
+Parcours
+<sub>03 / EXPÉRIENCES</sub>
+AUJOURD'HUI · 2026 — La Manu, informatique Première année. Je développe mes bases numériques et réalise des travaux de design en cours.
+DEPUIS SEPTEMBRE · JOB ÉTUDIANT — Préparateur de commandes · E.Leclerc Une expérience qui m'apprend à être organisé, réactif et fiable au quotidien.
+STAGE DE SECONDE — Découverte du design web Centre départemental d'Eure-et-Loir, auprès d'une personne participant à la refonte de sites internet.
+2025 — Baccalauréat général · spécialité NSI Une formation qui m'a donné le goût de l'informatique et des projets numériques.
+
+Ce que j'explore
+<sub>04 / INTÉRÊTS</sub>
+Design graphique Design web Interfaces numériques Typographie Croquis & idées Jeux vidéo Informatique
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=700&lines=Salut+moi+c'est+Evan;Je+dessine+des+interfaces;Puis+je+les+code;Du+Figma+au+HTML%2FCSS;Co-fondateur+de+Lovan+Digital" alt="typing" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=naizenn&label=Visites+du+profil&color=E63946&style=for-the-badge" alt="visites" />
-<img src="https://img.shields.io/github/followers/naizenn?label=Followers&style=for-the-badge&logo=github&color=E63946&labelColor=0D1117" alt="followers" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Promotion-B1-E63946?style=for-the-badge&labelColor=0D1117" alt="B1" />
-<img src="https://img.shields.io/badge/Figma-UX%2FUI-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" alt="Figma" />
-<img src="https://img.shields.io/badge/Studio-Lovan%20Digital-E63946?style=for-the-badge&labelColor=0D1117" alt="Lovan Digital" />
-
-</div>
-
-<br/>
-
----
-
-## 👤 &nbsp;À propos de moi
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-🎓 &nbsp;Étudiant en **B1**, spécialisé en **design UX/UI** et **intégration web**
-
-🌐 &nbsp;Co-fondateur de **Lovan Digital**, où je crée des sites web avec Loan, développeur
-
-🧩 &nbsp;Je transforme des maquettes **Figma** en pages **HTML/CSS** fidèles au design
-
-🐍 &nbsp;J'apprends **Python** et **JavaScript** à travers des projets concrets
-
-🤝 &nbsp;J'aime travailler en équipe, du brief jusqu'à la mise en ligne
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-```js
-const evan = {
-role: "Designer UX/UI",
-school: "B1",
-studio: "Lovan Digital",
-stack: ["Figma", "HTML", "CSS"],
+<sub>UNE IDÉE, UN PROJET, UNE QUESTION ?</sub>
+Parlons création.
+Disponible pour échanger autour du design et de mon parcours.
+evanhay283000@gmail.com ↗
+<sub>CHARTRES · EURE-ET-LOIR</sub> <br /> <sub>EVAN KALAYCIOGLU · PORTFOLIO 2026 · FAIT AVEC CURIOSITÉ</sub>
+</div>stack: ["Figma", "HTML", "CSS"],
 learning: ["Python", "JS"],
 coffee: true,
 };
